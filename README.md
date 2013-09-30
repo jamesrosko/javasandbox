@@ -1,6 +1,5 @@
 javasandbox
 ===========
 
-simple java sandbox for trying stuff out and sharing code with friends
+Simple Java Sandbox for trying stuff out and sharing code with friends.
 
-test
