@@ -1,4 +1,4 @@
-package com.jamesrosko.singleton;
+package com.jamesrosko.patterns.singleton;
 
 public class CannotMockMeSingleton {
 
