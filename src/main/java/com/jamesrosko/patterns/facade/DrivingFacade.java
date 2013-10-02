@@ -1,4 +1,4 @@
-package com.jamesrosko.facade;
+package com.jamesrosko.patterns.facade;
 
 import java.util.Collections;
 import java.util.List;

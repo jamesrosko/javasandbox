@@ -1,4 +1,4 @@
-package com.jamesrosko.facade;
+package com.jamesrosko.patterns.facade;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
@@ -6,6 +6,8 @@ import static org.junit.Assert.assertThat;
 import java.util.List;
 
 import org.junit.Test;
+
+import com.jamesrosko.patterns.facade.DrivingFacade;
 
 public class DrivingFacadeTest {
 

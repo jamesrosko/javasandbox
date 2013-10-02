@@ -1,4 +1,4 @@
-package com.jamesrosko.javasandbox;
+package com.jamesrosko.patterns.javasandbox;
 
 public class Foo {
 

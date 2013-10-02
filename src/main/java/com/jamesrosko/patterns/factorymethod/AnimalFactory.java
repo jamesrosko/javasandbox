@@ -1,4 +1,4 @@
-package com.jamesrosko.factorymethod;
+package com.jamesrosko.patterns.factorymethod;
 
 import java.util.HashMap;
 import java.util.Map;

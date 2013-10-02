@@ -1,4 +1,4 @@
-package com.jamesrosko.factorymethod;
+package com.jamesrosko.patterns.factorymethod;
 
 public class Animal {
     

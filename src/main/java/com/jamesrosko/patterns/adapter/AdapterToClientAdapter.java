@@ -1,4 +1,4 @@
-package com.jamesrosko.adapter;
+package com.jamesrosko.patterns.adapter;
 
 public class AdapterToClientAdapter implements EasyToUseClient {
 

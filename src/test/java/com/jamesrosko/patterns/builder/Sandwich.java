@@ -1,4 +1,4 @@
-package com.jamesrosko.builder;
+package com.jamesrosko.patterns.builder;
 
 public class Sandwich {
 

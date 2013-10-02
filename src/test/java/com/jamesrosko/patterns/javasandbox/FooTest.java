@@ -1,9 +1,11 @@
-package com.jamesrosko.javasandbox;
+package com.jamesrosko.patterns.javasandbox;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
 
 import org.junit.Test;
+
+import com.jamesrosko.patterns.javasandbox.Foo;
 
 public class FooTest {
 

@@ -1,9 +1,13 @@
-package com.jamesrosko.adapter;
+package com.jamesrosko.patterns.adapter;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
 
 import org.junit.Test;
+
+import com.jamesrosko.patterns.adapter.Adapter;
+import com.jamesrosko.patterns.adapter.EasyToUseClient;
+import com.jamesrosko.patterns.adapter.HardToUseAdaptee;
 
 public class AdapterTest {
 
