@@ -7,6 +7,7 @@ Currently working through some of the Java <a href="http://en.wikipedia.org/wiki
 
 Examples
 ---------
+Creational
 - [ ] Abstract Factory
 - [x] Builder
 - [x] Factory Method
@@ -17,6 +18,7 @@ Examples
 - [ ] Resource Acquisition
 - [x] Singleton
 
+Structural
 - [x] Adapter
 - [ ] Bridge
 - [ ] Composite
@@ -28,6 +30,7 @@ Examples
 - [ ] Proxy
 - [x] Wrapper
 
+Behavioral
 - [ ] Blackboard
 - [ ] Chain of Responsibility
 - [ ] Command
