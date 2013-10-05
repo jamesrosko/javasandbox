@@ -8,7 +8,7 @@ Currently working through some of the Java <a href="http://en.wikipedia.org/wiki
 Examples
 ---------
 Creational
-- [ ] Abstract Factory
+- [x] Abstract Factory
 - [x] Builder
 - [x] Factory Method
 - [ ] Lazy Initialization
