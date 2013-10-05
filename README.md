@@ -26,10 +26,21 @@ Examples
 - [ ] Front Controller
 - [ ] Module
 - [ ] Proxy
-- [ ] 
+- [x] Wrapper
 
-
+- [ ] Blackboard
+- [ ] Chain of Responsibility
+- [ ] Command
+- [ ] Interpreter
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Momento
+- [ ] Null Object
 - [x] Observer
+- [ ] Servant
+- [ ] Specification
+- [ ] State
+- [ ] Strategy
 - [x] Template Method
 - [x] Visitor
-- [x] Wrapper
+
