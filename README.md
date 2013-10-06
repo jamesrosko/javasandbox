@@ -20,7 +20,7 @@ Creational
 
 Structural
 - [x] Adapter
-- [ ] Bridge
+- [x] Bridge
 - [ ] Composite
 - [ ] Decorator
 - [x] Facade
