@@ -42,7 +42,7 @@ Behavioral
 - [x] Observer
 - [ ] Servant
 - [ ] Specification
-- [ ] State
+- [x] State
 - [ ] Strategy
 - [x] Template Method
 - [x] Visitor
