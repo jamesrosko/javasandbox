@@ -33,9 +33,9 @@ Structural
 Behavioral
 - [ ] Blackboard
 - [ ] Chain of Responsibility
-- [ ] Command
+- [x] Command
 - [ ] Interpreter
-- [ ] Iterator
+- [xs] Iterator
 - [ ] Mediator
 - [ ] Momento
 - [ ] Null Object
@@ -43,7 +43,7 @@ Behavioral
 - [ ] Servant
 - [ ] Specification
 - [x] State
-- [ ] Strategy
+- [x] Strategy
 - [x] Template Method
 - [x] Visitor
 
