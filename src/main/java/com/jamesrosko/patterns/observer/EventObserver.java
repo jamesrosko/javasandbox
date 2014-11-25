@@ -13,7 +13,6 @@ public class EventObserver implements Observer {
         this.name = name;
     }
 
-    @Override
     public void handleEvent() {
         count++;
         log.info(name + " is handling the event");

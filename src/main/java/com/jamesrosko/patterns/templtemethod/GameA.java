@@ -8,24 +8,20 @@ public class GameA implements Game {
 
     int score = 0;
 
-    @Override
     public Integer score() {
         return score;
     }
 
-    @Override
     public void setup() {
         log.info("setup");
         score = 0;
     }
 
-    @Override
     public void movePlayer() {
         log.info("move player");
         score = 50;
     }
 
-    @Override
     public void endGame() {
         log.info("endGame");
         score = score * 2;

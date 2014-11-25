@@ -8,7 +8,6 @@ public class AdapterToClientAdapter implements EasyToUseClient {
         this.adaptee = adaptee;
     }
 
-    @Override
     public String format(String input) {
         String complicated = adaptee.complicated(input);
         return complicated.toUpperCase();

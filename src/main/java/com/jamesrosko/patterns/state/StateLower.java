@@ -4,7 +4,6 @@ public class StateLower implements State {
 
     private int count = 0;
 
-    @Override
     public String writeName(StateContext stateContext, String name) {
         toggleState(stateContext);
         return name.toLowerCase();

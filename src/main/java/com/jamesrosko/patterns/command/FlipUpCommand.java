@@ -8,7 +8,6 @@ public class FlipUpCommand implements ICommand {
         this.light = light;
     }
 
-    @Override
     public void execute() {
         light.turnOn();
     }

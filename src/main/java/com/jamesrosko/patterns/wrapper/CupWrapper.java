@@ -12,14 +12,12 @@ public class CupWrapper implements Cup {
         this.cup = cup;
     }
 
-    @Override
     public void fill() {
         log.info("fill");
         cup.fill();
         log.info("Is empty: " + cup.isEmpty());
     }
 
-    @Override
     public void drink() {
         log.info("drink");
         cup.drink();
@@ -27,7 +25,6 @@ public class CupWrapper implements Cup {
 
     }
 
-    @Override
     public boolean isEmpty() {
         return cup.isEmpty();
     }

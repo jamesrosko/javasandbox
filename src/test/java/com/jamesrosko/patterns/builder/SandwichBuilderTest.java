@@ -5,10 +5,7 @@ import static org.hamcrest.CoreMatchers.notNullValue;
 import static org.hamcrest.CoreMatchers.nullValue;
 import static org.junit.Assert.assertThat;
 
-import org.hamcrest.CoreMatchers;
 import org.junit.Test;
-
-import com.jamesrosko.patterns.builder.SandwichBuilder;
 
 public class SandwichBuilderTest {
 

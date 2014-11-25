@@ -17,7 +17,6 @@ public class MidSizeCar implements Car {
         return carType;
     }
 
-    @Override
     public int getCargoVolume() {
         return 110;
     }

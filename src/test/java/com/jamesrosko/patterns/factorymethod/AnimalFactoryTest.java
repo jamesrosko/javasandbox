@@ -2,13 +2,9 @@ package com.jamesrosko.patterns.factorymethod;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.notNullValue;
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertThat;
 
-import org.hamcrest.CoreMatchers;
 import org.junit.Test;
-
-import com.jamesrosko.patterns.factorymethod.Animal;
-import com.jamesrosko.patterns.factorymethod.AnimalFactory;
 
 public class AnimalFactoryTest {
 

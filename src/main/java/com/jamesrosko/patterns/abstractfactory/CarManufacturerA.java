@@ -4,7 +4,6 @@ public class CarManufacturerA implements CarManufacturer {
 
     private static final String MANUFACTURER_NAME = "maker a";
 
-    @Override
     public Car produce(CarType carType) {
 
         Car car = null;

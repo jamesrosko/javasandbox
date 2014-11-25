@@ -1,24 +1,20 @@
 package com.jamesrosko.patterns.wrapper;
 
-
 public class CupImpl implements Cup {
 
-    boolean hasLiquid;
+	boolean hasLiquid;
 
-    @Override
-    public void fill() {
-        hasLiquid = true;
-    }
+	public void fill() {
+		hasLiquid = true;
+	}
 
-    @Override
-    public void drink() {
-        hasLiquid = false;
+	public void drink() {
+		hasLiquid = false;
 
-    }
+	}
 
-    @Override
-    public boolean isEmpty() {
-        return !hasLiquid;
-    }
+	public boolean isEmpty() {
+		return !hasLiquid;
+	}
 
 }

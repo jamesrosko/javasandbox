@@ -17,7 +17,6 @@ public class CompactCar implements Car {
         return carType;
     }
 
-    @Override
     public int getCargoVolume() {
         return 100;
     }
